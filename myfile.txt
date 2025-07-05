@@ -1,0 +1,7 @@
+this file for test
+^g
+^G
+
+^G
+^G
+FA
